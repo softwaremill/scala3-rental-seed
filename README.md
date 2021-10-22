@@ -33,3 +33,8 @@ Hello, world!
    opening the project, go to the `sbt` tab on the right, click on the wrench on the far right ("Build Tool Settings"),
    choose "sbt settings", and tick the two checkboxes next to "sbt shell - use for project reload" and "build". Finally,
    reload (again on the sbt tab) and you're good to go.
+
+## Exploring Scala further
+
+* Our Scala starting page: resources, application stacks, guides: [scala.page](https://softwaremill.com/scala/)
+* Our weekly Scala newsletter, [Scala Times](https://scalatimes.com)
